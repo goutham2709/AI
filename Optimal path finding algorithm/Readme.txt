@@ -1,5 +1,4 @@
 Goutham Munagala
-1001565060
 Java
 
 1. Initial input_file, state state and goal state are declared.

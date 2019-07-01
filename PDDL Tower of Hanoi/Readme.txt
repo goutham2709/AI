@@ -1,5 +1,4 @@
 Goutham Munagala
-1001565060
 
 Command line to invoke the program:
 graphplan -o [operators_file] -f [facts_file]

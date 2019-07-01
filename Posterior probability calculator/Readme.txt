@@ -1,5 +1,4 @@
 Goutham Munagala
-1001565060
 Java 
 
 1.compute_a_posteriori
